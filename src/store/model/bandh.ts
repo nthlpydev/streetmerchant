@@ -751,6 +751,12 @@ export const BAndH: Store = {
       series: '5090',
       url: 'https://www.bhphotovideo.com/c/product/1875717-REG/gigabyte_gv_n5090aorus_m_32gd_geforce_rtx_5090_master.html',
     },
+    {
+      brand: 'intel',
+      model: 'b580',
+      series: 'arc',
+      url: 'https://www.bhphotovideo.com/c/product/1869297-REG/intel_31p06hb0ba_arc_b580_limited_edition.html',
+    },
   ],
   name: 'bandh',
   country: 'US',
